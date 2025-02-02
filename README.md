@@ -53,7 +53,11 @@
 
 ### 🦷 Modern Dental Clinic Website
 <div align="center">
-  <img src="dental-preview.png" alt="Dental Clinic Preview" width="600px"/>
+  <img src="dental-hero.png" alt="Dental Clinic Hero Section" width="800px"/>
+  <div style="display: flex; gap: 20px; margin-top: 20px;">
+    <img src="dental-services.png" alt="Services Section" width="390px"/>
+    <img src="dental-mobile.png" alt="Mobile View" width="390px"/>
+  </div>
 </div>
 
 [![Dental Clinic](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=dental-clinic-web&theme=radical)](https://github.com/huseyincnd/dental-clinic-web)
