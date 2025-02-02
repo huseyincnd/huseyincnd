@@ -57,8 +57,6 @@
   </table>
 </div>
 
-[![Lojistik](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=sealive-logistics-web&theme=radical)](https://github.com/huseyincnd/sealive-logistics-web)
-
 **✨ Öne Çıkan Özellikler:**
 - 🌍 Çok dilli destek (TR/EN)
 - 💰 Dinamik fiyat hesaplama
@@ -104,8 +102,6 @@
   </table>
 </div>
 
-[![Diş Kliniği](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=site&theme=radical)](https://github.com/huseyincnd/site)
-
 **✨ Öne Çıkan Özellikler:**
 - 🎨 Modern ve minimalist tasarım
 - 📱 Tam responsive yapı
@@ -150,7 +146,6 @@
   </table>
 </div>
 
-[![Hukuk Bürosu](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=law-firm-website&theme=radical)](https://github.com/huseyincnd/law-firm-website)
 
 **✨ Öne Çıkan Özellikler:**
 - 💼 Profesyonel kurumsal kimlik
