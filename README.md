@@ -1,4 +1,4 @@
-# Hüseyin Can Duran
+# Hüseyin Cuneydioğlu
 ## Full Stack Developer
 
 👋 Merhaba! Ben Hüseyin Can Duran. Modern web teknolojileri ile kullanıcı dostu ve performanslı web siteleri geliştiriyorum.
@@ -14,7 +14,7 @@
 ### 💼 Projeler
 
 #### 🦷 Diş Kliniği Web Sitesi
-[Live Demo]([site-linki](https://site-5dm2dc544-huseyins-projects-a7abb693.vercel.app)) | [GitHub](repo-linki)
+[Live Demo](https://site-5dm2dc544-huseyins-projects-a7abb693.vercel.app) | [GitHub](repo-linki)
 - Modern ve kullanıcı dostu arayüz
 - Randevu sistemi
 - Responsive tasarım
