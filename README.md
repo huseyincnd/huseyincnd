@@ -93,19 +93,19 @@
 
 ### ⚖️ Hukuk Bürosu Web Sitesi
 <div align="center">
-  <img src="law-hero.png" alt="Hukuk Bürosu Ana Görünüm" width="800px"/>
+  <img src="law-firm-website-hero.png" alt="Hukuk Bürosu Ana Görünüm" width="800px"/>
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="law-services.png" alt="Hizmetler Bölümü" width="400px"/>
+        <img src="law-firm-website-services.png" alt="Hizmetler Bölümü" width="400px"/>
         <br />
         <i>Hizmet Alanları</i>
       </td>
       <td align="center">
-        <img src="law-mobile.png" alt="Mobil Görünüm" width="200px"/>
+        <img src="law-firm-website-mobile.png" alt="Mobil Görünüm" width="200px"/>
         <br />
         <i>Mobil Görünüm</i>
       </td>
@@ -126,6 +126,9 @@
 - 📊 SEO optimizasyonu
 
 <div align="center">
+  <a href="https://law-firm-website-iota.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Canlı_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Canlı Demo"/>
+  </a>
   <a href="https://github.com/huseyincnd/law-firm-web" target="_blank">
     <img src="https://img.shields.io/badge/Kaynak_Kod-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kaynak Kod"/>
   </a>
@@ -133,19 +136,19 @@
 
 ### 🚢 Lojistik Şirketi Web Sitesi
 <div align="center">
-  <img src="logistics-hero.png" alt="Lojistik Şirketi Ana Görünüm" width="800px"/>
+  <img src="sealive-hero.png" alt="Lojistik Şirketi Ana Görünüm" width="800px"/>
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="logistics-services.png" alt="Hizmetler Bölümü" width="400px"/>
+        <img src="sealive-services.png" alt="Hizmetler Bölümü" width="400px"/>
         <br />
         <i>Hizmetlerimiz</i>
       </td>
       <td align="center">
-        <img src="logistics-mobile.png" alt="Mobil Görünüm" width="200px"/>
+        <img src="sealive-mobile.png" alt="Mobil Görünüm" width="200px"/>
         <br />
         <i>Mobil Görünüm</i>
       </td>
@@ -166,6 +169,9 @@
 - 🔍 SEO optimizasyonu
 
 <div align="center">
+  <a href="https://sealive-logistics-web.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Canlı_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Canlı Demo"/>
+  </a>
   <a href="https://github.com/huseyincnd/sealive-logistics-web" target="_blank">
     <img src="https://img.shields.io/badge/Kaynak_Kod-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kaynak Kod"/>
   </a>
