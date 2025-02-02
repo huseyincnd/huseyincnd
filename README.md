@@ -57,19 +57,10 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="dental-services.png" alt="Services Section" width="49%" style="margin-right: 2%"/>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="dental-mobile.png" alt="Mobile View" width="25%"/>
+  <img src="dental-services.png" alt="Services Section" width="49%"/>
 </div>
-
-<p align="center">
-  <a href="https://site-5dm2dc544-huseyins-projects-a7abb693.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-  </a>
-  <a href="https://github.com/huseyincnd/site" target="_blank">
-    <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-</p>
 
 **✨ Öne Çıkan Özellikler**
 - 🎯 **Modern Tasarım:** Minimalist ve kullanıcı dostu arayüz
@@ -81,7 +72,18 @@
 - 📅 **Randevu Sistemi:** Online randevu oluşturma
 - 🖼️ **Galeri:** Öncesi ve sonrası hasta görselleri
 
+<p align="center">
+  <a href="https://site-5dm2dc544-huseyins-projects-a7abb693.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/huseyincnd/site" target="_blank">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
+
 [![Dental Clinic](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=site&theme=radical)](https://github.com/huseyincnd/site)
+
+
 ### ⚖️ Law Firm Website
 <div align="center">
   <img src="law-preview.png" alt="Law Firm Preview" width="600px"/>
