@@ -1,39 +1,36 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Hüseyin+Cuneydioğlu+%F0%9F%91%8B;A+Passionate+Full-Stack+Developer+from+Turkey+%F0%9F%92%BB" alt="Typing SVG" />
-  
-  <!-- Banner Image - Kendi banner'ınızı ekleyebilirsiniz -->
-  <img src="your-banner-image.png" alt="Developer Banner" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Merhaba%2C+Ben+Hüseyin+Cuneydioğlu+%F0%9F%91%8B;Tutkulu+Bir+Full-Stack+Geliştirici+%F0%9F%92%BB" alt="Typing SVG" />
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=huseyincnd&color=blueviolet" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/huseyincnd?style=social" alt="GitHub followers"/>
+    <img src="https://komarev.com/ghpvc/?username=huseyincnd&color=blueviolet" alt="Profil Görüntülenme"/>
+    <img src="https://img.shields.io/github/followers/huseyincnd?style=social" alt="GitHub Takipçileri"/>
   </p>
 </div>
 
-# 💫 About Me
-> "Turning ideas into elegant, user-friendly web solutions"
+# 💫 Hakkımda
+> "Fikirleri zarif ve kullanıcı dostu web çözümlerine dönüştürüyorum"
 
-🚀 Full-Stack Developer specializing in modern web technologies  
-🎯 Creating seamless user experiences with Next.js and React  
-🌱 Passionate about clean code and performance optimization  
-💡 Experienced in building responsive, multilingual websites  
-🌍 Based in Turkey, working globally
+🚀 Modern web teknolojilerinde uzmanlaşmış Full-Stack Geliştirici  
+🎯 Next.js ve React ile kusursuz kullanıcı deneyimleri yaratıyorum  
+🌱 Temiz kod ve performans optimizasyonu konusunda tutkulu  
+💡 Responsive ve çok dilli web siteleri geliştirme deneyimi  
+🌍 Türkiye'den dünyaya hizmet veriyorum
 
 <details>
-<summary>🎓 My Development Journey</summary>
+<summary>🎓 Gelişim Yolculuğum</summary>
 
-- Started with frontend development in 2022
-- Mastered Next.js and React ecosystem
-- Developed multiple commercial projects
-- Continuously learning and improving skills
+- 2022'de frontend geliştirme ile başladım
+- Next.js ve React ekosisteminde uzmanlaştım
+- Birçok ticari proje geliştirdim
+- Sürekli öğrenmeye ve gelişmeye devam ediyorum
 </details>
 
-## 🛠️ Technology Arsenal
+## 🛠️ Teknoloji Arsenalim
 
 <details>
-<summary>💻 Click to see my tech stack</summary>
+<summary>💻 Kullandığım teknolojiler</summary>
 
-### Frontend Development
+### Frontend Geliştirme
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -44,26 +41,28 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Development Tools
+### Geliştirme Araçları
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </details>
 
-### 🦷 Modern Dental Clinic Website
+## 🎨 Projelerim
+
+### 🦷 Modern Diş Kliniği Web Sitesi
 <div align="center">
-  <img src="dental-hero.png" alt="Dental Clinic Hero Section" width="800px"/>
+  <img src="dental-hero.png" alt="Diş Kliniği Ana Görünüm" width="800px"/>
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="dental-services.png" alt="Services Section" width="400px"/>
+        <img src="dental-services.png" alt="Hizmetler Bölümü" width="400px"/>
         <br />
         <i>Tedavi Hizmetleri</i>
       </td>
       <td align="center">
-        <img src="dental-mobile.png" alt="Mobile View" width="200px"/>
+        <img src="dental-mobile.png" alt="Mobil Görünüm" width="200px"/>
         <br />
         <i>Mobil Görünüm</i>
       </td>
@@ -71,9 +70,9 @@
   </table>
 </div>
 
-[![Dental Clinic](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=site&theme=radical)](https://github.com/huseyincnd/site)
+[![Diş Kliniği](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=site&theme=radical)](https://github.com/huseyincnd/site)
 
-**Key Features:**
+**✨ Öne Çıkan Özellikler:**
 - 🎨 Modern ve minimalist tasarım
 - 📱 Tam responsive yapı
 - 🔍 SEO optimizasyonu
@@ -85,72 +84,94 @@
 
 <div align="center">
   <a href="https://site-5dm2dc544-huseyins-projects-a7abb693.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/Canlı_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Canlı Demo"/>
   </a>
   <a href="https://github.com/huseyincnd/site" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+    <img src="https://img.shields.io/badge/Kaynak_Kod-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kaynak Kod"/>
   </a>
 </div>
 
-<br/>
-
-
-### ⚖️ Law Firm Website
+### ⚖️ Hukuk Bürosu Web Sitesi
 <div align="center">
-  <img src="law-preview.png" alt="Law Firm Preview" width="600px"/>
+  <img src="law-hero.png" alt="Hukuk Bürosu Ana Görünüm" width="800px"/>
 </div>
 
-[![Law Firm](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=law-firm-web&theme=radical)](https://github.com/huseyincnd/law-firm-web)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="law-services.png" alt="Hizmetler Bölümü" width="400px"/>
+        <br />
+        <i>Hizmet Alanları</i>
+      </td>
+      <td align="center">
+        <img src="law-mobile.png" alt="Mobil Görünüm" width="200px"/>
+        <br />
+        <i>Mobil Görünüm</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Key Features:**
+[![Hukuk Bürosu](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=law-firm-web&theme=radical)](https://github.com/huseyincnd/law-firm-web)
+
+**✨ Öne Çıkan Özellikler:**
 - 💼 Profesyonel kurumsal kimlik
 - 📝 Dinamik blog sistemi
-- 🌐 Hizmet alanları tanıtımı
+- 🌐 Kapsamlı hizmet alanları
 - 📨 Gelişmiş iletişim formu
 - 🎯 Hedef kitle odaklı tasarım
+- ⚡ Yüksek performans
+- 🖼️ Modern ve şık arayüz
+- 📊 SEO optimizasyonu
 
 <div align="center">
-  <a href="https://law-firm.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  <a href="https://github.com/huseyincnd/law-firm-web" target="_blank">
+    <img src="https://img.shields.io/badge/Kaynak_Kod-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kaynak Kod"/>
   </a>
 </div>
 
-### 🚢 Logistics Company Website
+### 🚢 Lojistik Şirketi Web Sitesi
 <div align="center">
-  <img src="logistics-preview.png" alt="Logistics Preview" width="600px"/>
+  <img src="logistics-hero.png" alt="Lojistik Şirketi Ana Görünüm" width="800px"/>
 </div>
 
-[![Logistics](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=sealive-logistics-web&theme=radical)](https://github.com/huseyincnd/sealive-logistics-web)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="logistics-services.png" alt="Hizmetler Bölümü" width="400px"/>
+        <br />
+        <i>Hizmetlerimiz</i>
+      </td>
+      <td align="center">
+        <img src="logistics-mobile.png" alt="Mobil Görünüm" width="200px"/>
+        <br />
+        <i>Mobil Görünüm</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Key Features:**
+[![Lojistik](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=sealive-logistics-web&theme=radical)](https://github.com/huseyincnd/sealive-logistics-web)
+
+**✨ Öne Çıkan Özellikler:**
 - 🌍 Çok dilli destek (TR/EN)
 - 💰 Dinamik fiyat hesaplama
 - ✨ Etkileyici animasyonlar
 - 🎨 Modern UI/UX tasarım
 - 📊 Global ağ gösterimi
+- 🚢 Konteyner takip sistemi
+- 📱 Responsive tasarım
+- 🔍 SEO optimizasyonu
 
 <div align="center">
-  <a href="https://sealive-logistics.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  <a href="https://github.com/huseyincnd/sealive-logistics-web" target="_blank">
+    <img src="https://img.shields.io/badge/Kaynak_Kod-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kaynak Kod"/>
   </a>
 </div>
 
-## 📊 Performance Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyincnd&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyincnd&theme=radical" alt="GitHub Streak" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyincnd&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=huseyincnd&theme=radical&row=1" alt="Trophies" />
-</div>
-
-## 🤝 Let's Connect
+## 🤝 İletişim
 
 <div align="center">
   
