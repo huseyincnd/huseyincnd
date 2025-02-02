@@ -8,26 +8,14 @@
 </div>
 
 # 💫 Hakkımda
-> "Fikirleri zarif ve kullanıcı dostu web çözümlerine dönüştürüyorum"
 
-🚀 Modern web teknolojilerinde uzmanlaşmış Full-Stack Geliştirici  
-🎯 Next.js ve React ile kusursuz kullanıcı deneyimleri yaratıyorum  
-🌱 Temiz kod ve performans optimizasyonu konusunda tutkulu  
-💡 Responsive ve çok dilli web siteleri geliştirme deneyimi  
-🌍 Türkiye'den dünyaya hizmet veriyorum
-
-<details>
-<summary>🎓 Gelişim Yolculuğum</summary>
-
-- 2022'de frontend geliştirme ile başladım
-- Next.js ve React ekosisteminde uzmanlaştım
-- Birçok ticari proje geliştirdim
-- Sürekli öğrenmeye ve gelişmeye devam ediyorum
-</details>
+🚀 Full-Stack Web Developer  
+💻 Next.js, React ve TypeScript uzmanı  
+🌐 Responsive ve çok dilli web siteleri geliştiriyorum  
+✨ Modern ve kullanıcı dostu arayüzler tasarlıyorum  
+🔍 SEO odaklı web çözümleri sunuyorum
 
 ## 💻 Kullandığım teknolojiler
-
-<details>
 
 ### Frontend Geliştirme
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -83,10 +71,11 @@
 
 <div align="center">
   <a href="https://sealive-logistics-web.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Canlı_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Canlı Demo"/>
+    <img src="https://img.shields.io/badge/🌐_CANLI_DEMO-4285F4?style=for-the-badge&logoColor=white&labelColor=082032" alt="Canlı Demo" width="200px"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/huseyincnd/sealive-logistics-web" target="_blank">
-    <img src="https://img.shields.io/badge/Kaynak_Kod-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kaynak Kod"/>
+    <img src="https://img.shields.io/badge/📂_KAYNAK_KOD-171515?style=for-the-badge&logoColor=white&labelColor=293462" alt="Kaynak Kod" width="200px"/>
   </a>
 </div>
 
@@ -126,11 +115,12 @@
 - 📊 Detaylı hizmet sayfaları
 
 <div align="center">
-  <a href="https://site-5dm2dc544-huseyins-projects-a7abb693.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Canlı_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Canlı Demo"/>
+  <a href="https://sealive-logistics-web.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_CANLI_DEMO-4285F4?style=for-the-badge&logoColor=white&labelColor=082032" alt="Canlı Demo" width="200px"/>
   </a>
-  <a href="https://github.com/huseyincnd/site" target="_blank">
-    <img src="https://img.shields.io/badge/Kaynak_Kod-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kaynak Kod"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/huseyincnd/sealive-logistics-web" target="_blank">
+    <img src="https://img.shields.io/badge/📂_KAYNAK_KOD-171515?style=for-the-badge&logoColor=white&labelColor=293462" alt="Kaynak Kod" width="200px"/>
   </a>
 </div>
 
@@ -169,11 +159,12 @@
 - 📊 SEO optimizasyonu
 
 <div align="center">
-  <a href="https://law-firm-website-iota.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Canlı_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Canlı Demo"/>
+  <a href="https://sealive-logistics-web.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_CANLI_DEMO-4285F4?style=for-the-badge&logoColor=white&labelColor=082032" alt="Canlı Demo" width="200px"/>
   </a>
-  <a href="https://github.com/huseyincnd/law-firm-website" target="_blank">
-    <img src="https://img.shields.io/badge/Kaynak_Kod-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kaynak Kod"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/huseyincnd/sealive-logistics-web" target="_blank">
+    <img src="https://img.shields.io/badge/📂_KAYNAK_KOD-171515?style=for-the-badge&logoColor=white&labelColor=293462" alt="Kaynak Kod" width="200px"/>
   </a>
 </div>
 
