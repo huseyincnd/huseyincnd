@@ -49,19 +49,29 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </details>
 
-## 🎨 Featured Projects
-
 ### 🦷 Modern Dental Clinic Website
 <div align="center">
   <img src="dental-hero.png" alt="Dental Clinic Hero Section" width="800px"/>
 </div>
 
-<p align="center">
-  <img src="dental-services.png" alt="Services Section" width="400px"/>
-  <img src="dental-mobile.png" alt="Mobile View" width="200px"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="dental-services.png" alt="Services Section" width="400px"/>
+        <br />
+        <i>Tedavi Hizmetleri</i>
+      </td>
+      <td align="center">
+        <img src="dental-mobile.png" alt="Mobile View" width="200px"/>
+        <br />
+        <i>Mobil Görünüm</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
-[![Dental Clinic](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=dental-clinic-web&theme=radical)](https://github.com/huseyincnd/dental-clinic-web)
+[![Dental Clinic](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=site&theme=radical)](https://github.com/huseyincnd/site)
 
 **Key Features:**
 - 🎨 Modern ve minimalist tasarım
@@ -69,12 +79,20 @@
 - 🔍 SEO optimizasyonu
 - 📅 Online randevu sistemi
 - ⚡ Yüksek performans skoru
+- 🌐 Çoklu dil desteği (TR/EN)
+- 🖼️ Animasyonlu kullanıcı arayüzü
+- 📊 Detaylı hizmet sayfaları
 
 <div align="center">
-  <a href="https://dental-clinic.vercel.app" target="_blank">
+  <a href="https://site-5dm2dc544-huseyins-projects-a7abb693.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
   </a>
+  <a href="https://github.com/huseyincnd/site" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
 </div>
+
+<br/>
 
 ### ⚖️ Law Firm Website
 <div align="center">
