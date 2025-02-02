@@ -50,50 +50,53 @@
 </details>
 
 ### 🦷 Modern Dental Clinic Website
-<div align="center">
-  <img src="dental-hero.png" alt="Dental Clinic Hero Section" width="800px"/>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="dental-services.png" alt="Services Section" width="400px"/>
-        <br />
-        <i>Tedavi Hizmetleri</i>
-      </td>
-      <td align="center">
-        <img src="dental-mobile.png" alt="Mobile View" width="200px"/>
-        <br />
-        <i>Mobil Görünüm</i>
-      </td>
-    </tr>
-  </table>
-</div>
-
-[![Dental Clinic](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=site&theme=radical)](https://github.com/huseyincnd/site)
-
-**Key Features:**
-- 🎨 Modern ve minimalist tasarım
-- 📱 Tam responsive yapı
-- 🔍 SEO optimizasyonu
-- 📅 Online randevu sistemi
-- ⚡ Yüksek performans skoru
-- 🌐 Çoklu dil desteği (TR/EN)
-- 🖼️ Animasyonlu kullanıcı arayüzü
-- 📊 Detaylı hizmet sayfaları
 
 <div align="center">
   <a href="https://site-5dm2dc544-huseyins-projects-a7abb693.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-  </a>
-  <a href="https://github.com/huseyincnd/site" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+    <img src="dental-hero.png" alt="Dental Clinic Hero Section" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
   </a>
 </div>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/huseyincnd/site" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js%2014-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  </a>
+  <a href="https://github.com/huseyincnd/site" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
+  <a href="https://github.com/huseyincnd/site" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  </a>
+  <a href="https://github.com/huseyincnd/site" target="_blank">
+    <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
+  </a>
+</p>
 
+<div align="center">
+  <img src="dental-services.png" alt="Services Section" width="49%" style="margin-right: 2%"/>
+  <img src="dental-mobile.png" alt="Mobile View" width="25%"/>
+</div>
+
+<p align="center">
+  <a href="https://site-5dm2dc544-huseyins-projects-a7abb693.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/huseyincnd/site" target="_blank">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
+
+**✨ Öne Çıkan Özellikler**
+- 🎯 **Modern Tasarım:** Minimalist ve kullanıcı dostu arayüz
+- 🌐 **Çoklu Dil:** Türkçe ve İngilizce dil desteği
+- 📱 **Tam Responsive:** Tüm cihazlarda mükemmel görünüm
+- ⚡ **Yüksek Performans:** Next.js 14 ile optimize edilmiş
+- 🎨 **Animasyonlar:** Framer Motion ile etkileyici geçişler
+- 📊 **SEO Dostu:** Arama motorları için optimize edilmiş yapı
+- 📅 **Randevu Sistemi:** Online randevu oluşturma
+- 🖼️ **Galeri:** Öncesi ve sonrası hasta görselleri
+
+[![Dental Clinic](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=site&theme=radical)](https://github.com/huseyincnd/site)
 ### ⚖️ Law Firm Website
 <div align="center">
   <img src="law-preview.png" alt="Law Firm Preview" width="600px"/>
