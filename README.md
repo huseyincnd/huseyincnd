@@ -70,13 +70,15 @@
 - 🔍 SEO optimizasyonu
 
 <div align="center">
-  <a href="https://sealive-logistics-web.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_CANLI_DEMO-4285F4?style=for-the-badge&logoColor=white&labelColor=082032" alt="Canlı Demo" width="200px"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/huseyincnd/sealive-logistics-web" target="_blank">
-    <img src="https://img.shields.io/badge/📂_KAYNAK_KOD-171515?style=for-the-badge&logoColor=white&labelColor=293462" alt="Kaynak Kod" width="200px"/>
-  </a>
+  <p align="center">
+    <a href="https://sealive-logistics-web.vercel.app" target="_blank">
+      <img width="160px" src="https://custom-icon-badges.demolab.com/badge/-CANLI%20DEMO-FF3B3B?style=for-the-badge&logoColor=white&logo=rocket" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/huseyincnd/sealive-logistics-web" target="_blank">
+      <img width="160px" src="https://custom-icon-badges.demolab.com/badge/-KAYNAK%20KOD-1F1F1F?style=for-the-badge&logoColor=white&logo=github" />
+    </a>
+  </p>
 </div>
 
 
@@ -115,13 +117,15 @@
 - 📊 Detaylı hizmet sayfaları
 
 <div align="center">
-  <a href="https://sealive-logistics-web.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_CANLI_DEMO-4285F4?style=for-the-badge&logoColor=white&labelColor=082032" alt="Canlı Demo" width="200px"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/huseyincnd/sealive-logistics-web" target="_blank">
-    <img src="https://img.shields.io/badge/📂_KAYNAK_KOD-171515?style=for-the-badge&logoColor=white&labelColor=293462" alt="Kaynak Kod" width="200px"/>
-  </a>
+  <p align="center">
+    <a href="https://sealive-logistics-web.vercel.app" target="_blank">
+      <img width="160px" src="https://custom-icon-badges.demolab.com/badge/-CANLI%20DEMO-FF3B3B?style=for-the-badge&logoColor=white&logo=rocket" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/huseyincnd/sealive-logistics-web" target="_blank">
+      <img width="160px" src="https://custom-icon-badges.demolab.com/badge/-KAYNAK%20KOD-1F1F1F?style=for-the-badge&logoColor=white&logo=github" />
+    </a>
+  </p>
 </div>
 
 ### ⚖️ Hukuk Bürosu Web Sitesi
@@ -159,13 +163,15 @@
 - 📊 SEO optimizasyonu
 
 <div align="center">
-  <a href="https://sealive-logistics-web.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_CANLI_DEMO-4285F4?style=for-the-badge&logoColor=white&labelColor=082032" alt="Canlı Demo" width="200px"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/huseyincnd/sealive-logistics-web" target="_blank">
-    <img src="https://img.shields.io/badge/📂_KAYNAK_KOD-171515?style=for-the-badge&logoColor=white&labelColor=293462" alt="Kaynak Kod" width="200px"/>
-  </a>
+  <p align="center">
+    <a href="https://sealive-logistics-web.vercel.app" target="_blank">
+      <img width="160px" src="https://custom-icon-badges.demolab.com/badge/-CANLI%20DEMO-FF3B3B?style=for-the-badge&logoColor=white&logo=rocket" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/huseyincnd/sealive-logistics-web" target="_blank">
+      <img width="160px" src="https://custom-icon-badges.demolab.com/badge/-KAYNAK%20KOD-1F1F1F?style=for-the-badge&logoColor=white&logo=github" />
+    </a>
+  </p>
 </div>
 
 ## 🤝 İletişim
