@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Merhaba%2C+Ben+Hüseyin+Cuneydioğlu+%F0%9F%91%8B;Tutkulu+Bir+Full-Stack+Geliştirici+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Merhaba%2C+Ben+Hüseyin+Cuneydioğlu+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB" alt="Typing SVG" />
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=huseyincnd&color=blueviolet" alt="Profil Görüntülenme"/>
@@ -25,10 +25,9 @@
 - Sürekli öğrenmeye ve gelişmeye devam ediyorum
 </details>
 
-## 🛠️ Teknoloji Arsenalim
+## 💻 Kullandığım teknolojiler
 
 <details>
-<summary>💻 Kullandığım teknolojiler</summary>
 
 ### Frontend Geliştirme
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -47,6 +46,50 @@
 </details>
 
 ## 🎨 Projelerim
+
+### 🚢 Lojistik Şirketi Web Sitesi
+<div align="center">
+  <img src="sealive-hero.png" alt="Lojistik Şirketi Ana Görünüm" width="800px"/>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="sealive-services.png" alt="Hizmetler Bölümü" width="400px"/>
+        <br />
+        <i>Hizmetlerimiz</i>
+      </td>
+      <td align="center">
+        <img src="sealive-mobile.png" alt="Mobil Görünüm" width="200px"/>
+        <br />
+        <i>Mobil Görünüm</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+[![Lojistik](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=sealive-logistics-web&theme=radical)](https://github.com/huseyincnd/sealive-logistics-web)
+
+**✨ Öne Çıkan Özellikler:**
+- 🌍 Çok dilli destek (TR/EN)
+- 💰 Dinamik fiyat hesaplama
+- ✨ Etkileyici animasyonlar
+- 🎨 Modern UI/UX tasarım
+- 📊 Global ağ gösterimi
+- 🚢 Konteyner takip sistemi
+- 📱 Responsive tasarım
+- 🔍 SEO optimizasyonu
+
+<div align="center">
+  <a href="https://sealive-logistics-web.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Canlı_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Canlı Demo"/>
+  </a>
+  <a href="https://github.com/huseyincnd/sealive-logistics-web" target="_blank">
+    <img src="https://img.shields.io/badge/Kaynak_Kod-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kaynak Kod"/>
+  </a>
+</div>
+
 
 ### 🦷 Modern Diş Kliniği Web Sitesi
 <div align="center">
@@ -113,7 +156,7 @@
   </table>
 </div>
 
-[![Hukuk Bürosu](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=law-firm-web&theme=radical)](https://github.com/huseyincnd/law-firm-web)
+[![Hukuk Bürosu](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=law-firm-website&theme=radical)](https://github.com/huseyincnd/law-firm-website)
 
 **✨ Öne Çıkan Özellikler:**
 - 💼 Profesyonel kurumsal kimlik
@@ -129,50 +172,7 @@
   <a href="https://law-firm-website-iota.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Canlı_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Canlı Demo"/>
   </a>
-  <a href="https://github.com/huseyincnd/law-firm-web" target="_blank">
-    <img src="https://img.shields.io/badge/Kaynak_Kod-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kaynak Kod"/>
-  </a>
-</div>
-
-### 🚢 Lojistik Şirketi Web Sitesi
-<div align="center">
-  <img src="sealive-hero.png" alt="Lojistik Şirketi Ana Görünüm" width="800px"/>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="sealive-services.png" alt="Hizmetler Bölümü" width="400px"/>
-        <br />
-        <i>Hizmetlerimiz</i>
-      </td>
-      <td align="center">
-        <img src="sealive-mobile.png" alt="Mobil Görünüm" width="200px"/>
-        <br />
-        <i>Mobil Görünüm</i>
-      </td>
-    </tr>
-  </table>
-</div>
-
-[![Lojistik](https://github-readme-stats.vercel.app/api/pin/?username=huseyincnd&repo=sealive-logistics-web&theme=radical)](https://github.com/huseyincnd/sealive-logistics-web)
-
-**✨ Öne Çıkan Özellikler:**
-- 🌍 Çok dilli destek (TR/EN)
-- 💰 Dinamik fiyat hesaplama
-- ✨ Etkileyici animasyonlar
-- 🎨 Modern UI/UX tasarım
-- 📊 Global ağ gösterimi
-- 🚢 Konteyner takip sistemi
-- 📱 Responsive tasarım
-- 🔍 SEO optimizasyonu
-
-<div align="center">
-  <a href="https://sealive-logistics-web.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Canlı_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Canlı Demo"/>
-  </a>
-  <a href="https://github.com/huseyincnd/sealive-logistics-web" target="_blank">
+  <a href="https://github.com/huseyincnd/law-firm-website" target="_blank">
     <img src="https://img.shields.io/badge/Kaynak_Kod-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kaynak Kod"/>
   </a>
 </div>
